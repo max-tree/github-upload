@@ -6,3 +6,5 @@ For the Roman Numeral to Arabic and vice versa exam, the .exe and the three sour
 is a different project.
 
 I spent 3 hours and 40 minutes on the code for the exam and uploaded everything by the 4 hour mark.
+
+I tested everything and it should work and be visible to you. Please let me know if you have any issues accessing my source code and .exe file.

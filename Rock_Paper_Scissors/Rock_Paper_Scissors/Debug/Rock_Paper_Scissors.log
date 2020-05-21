@@ -1,0 +1,5 @@
+﻿  Choices.cpp
+c:\users\abigail\source\repos\rock_paper_scissors\rock_paper_scissors\choices.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  Rock_Paper_Scissors.vcxproj -> c:\users\abigail\source\repos\Rock_Paper_Scissors\Debug\Rock_Paper_Scissors.exe
